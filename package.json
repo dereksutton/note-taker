@@ -1,0 +1,22 @@
+{
+  "name": "note-taker",
+  "version": "1.0.0",
+  "description": "GT Coding Bootcamp | Module 11 Express.js | Note Taker Application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dereksutton/note-taker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dereksutton/note-taker/issues"
+  },
+  "homepage": "https://github.com/dereksutton/note-taker#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
